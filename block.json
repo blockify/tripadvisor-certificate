@@ -1,0 +1,12 @@
+{
+  "name": "tripadvisor-certificate",
+  "description": "",
+  "authors": [
+    "Blockify <info@blockify.co> (http://blockify.co/)"
+  ],
+  "defaults": {
+    "locationId": "1",
+    "lang": "en_UK",
+    "year": "2014"
+  }
+}
